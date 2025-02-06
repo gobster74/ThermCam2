@@ -1,0 +1,1086 @@
+Node ID: TwoByteNodeId(Identifier=84, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Root
+  Node ID: NodeId(Identifier=87, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Views
+  Node ID: NodeId(Identifier=85, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Objects
+    Node ID: NodeId(Identifier=2253, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Server
+      Node ID: NodeId(Identifier=2254, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerArray
+      Node ID: NodeId(Identifier=2255, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NamespaceArray
+      Node ID: NodeId(Identifier=2256, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerStatus
+        Node ID: NodeId(Identifier=2257, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StartTime
+        Node ID: NodeId(Identifier=2258, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentTime
+        Node ID: NodeId(Identifier=2259, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: State
+        Node ID: NodeId(Identifier=2992, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecondsTillShutdown
+        Node ID: NodeId(Identifier=2993, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ShutdownReason
+        Node ID: NodeId(Identifier=2260, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildInfo
+          Node ID: NodeId(Identifier=2262, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductUri
+          Node ID: NodeId(Identifier=2263, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ManufacturerName
+          Node ID: NodeId(Identifier=2261, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductName
+          Node ID: NodeId(Identifier=2264, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareVersion
+          Node ID: NodeId(Identifier=2265, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildNumber
+          Node ID: NodeId(Identifier=2266, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildDate
+      Node ID: NodeId(Identifier=2267, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServiceLevel
+      Node ID: NodeId(Identifier=2994, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Auditing
+      Node ID: NodeId(Identifier=2268, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerCapabilities
+        Node ID: NodeId(Identifier=2269, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerProfileArray
+        Node ID: NodeId(Identifier=3704, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareCertificates
+        Node ID: NodeId(Identifier=2271, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LocaleIdArray
+        Node ID: NodeId(Identifier=2272, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinSupportedSampleRate
+        Node ID: NodeId(Identifier=2735, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxBrowseContinuationPoints
+        Node ID: NodeId(Identifier=2736, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxQueryContinuationPoints
+        Node ID: NodeId(Identifier=2737, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxHistoryContinuationPoints
+        Node ID: NodeId(Identifier=2996, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ModellingRules
+          Node ID: NodeId(Identifier=78, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Mandatory
+            Node ID: NodeId(Identifier=112, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamingRule
+          Node ID: NodeId(Identifier=80, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Optional
+            Node ID: NodeId(Identifier=113, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamingRule
+          Node ID: NodeId(Identifier=83, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ExposesItsArray
+            Node ID: NodeId(Identifier=114, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamingRule
+          Node ID: NodeId(Identifier=11508, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OptionalPlaceholder
+            Node ID: NodeId(Identifier=11509, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NamingRule
+          Node ID: NodeId(Identifier=11510, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MandatoryPlaceholder
+            Node ID: NodeId(Identifier=11511, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NamingRule
+        Node ID: NodeId(Identifier=2997, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AggregateFunctions
+          Node ID: NodeId(Identifier=2341, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Interpolative
+          Node ID: NodeId(Identifier=2342, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Average
+          Node ID: NodeId(Identifier=2343, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TimeAverage
+          Node ID: NodeId(Identifier=11285, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TimeAverage2
+          Node ID: NodeId(Identifier=2344, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Total
+          Node ID: NodeId(Identifier=11304, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Total2
+          Node ID: NodeId(Identifier=2346, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Minimum
+          Node ID: NodeId(Identifier=2347, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Maximum
+          Node ID: NodeId(Identifier=2348, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinimumActualTime
+          Node ID: NodeId(Identifier=2349, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaximumActualTime
+          Node ID: NodeId(Identifier=2350, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Range
+          Node ID: NodeId(Identifier=11286, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Minimum2
+          Node ID: NodeId(Identifier=11287, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Maximum2
+          Node ID: NodeId(Identifier=11305, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinimumActualTime2
+          Node ID: NodeId(Identifier=11306, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaximumActualTime2
+          Node ID: NodeId(Identifier=11288, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Range2
+          Node ID: NodeId(Identifier=2352, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Count
+          Node ID: NodeId(Identifier=11308, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationInStateNonZero
+          Node ID: NodeId(Identifier=11307, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationInStateZero
+          Node ID: NodeId(Identifier=2355, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NumberOfTransitions
+          Node ID: NodeId(Identifier=2357, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Start
+          Node ID: NodeId(Identifier=2358, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: End
+          Node ID: NodeId(Identifier=2359, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Delta
+          Node ID: NodeId(Identifier=11505, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StartBound
+          Node ID: NodeId(Identifier=11506, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EndBound
+          Node ID: NodeId(Identifier=11507, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeltaBounds
+          Node ID: NodeId(Identifier=2360, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationGood
+          Node ID: NodeId(Identifier=2361, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationBad
+          Node ID: NodeId(Identifier=2362, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PercentGood
+          Node ID: NodeId(Identifier=2363, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PercentBad
+          Node ID: NodeId(Identifier=2364, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: WorstQuality
+          Node ID: NodeId(Identifier=11292, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: WorstQuality2
+          Node ID: NodeId(Identifier=2351, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AnnotationCount
+          Node ID: NodeId(Identifier=11426, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StandardDeviationSample
+          Node ID: NodeId(Identifier=11428, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VarianceSample
+          Node ID: NodeId(Identifier=11427, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StandardDeviationPopulation
+          Node ID: NodeId(Identifier=11429, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VariancePopulation
+        Node ID: NodeId(Identifier=11703, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxStringLength
+        Node ID: NodeId(Identifier=11702, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxArrayLength
+        Node ID: NodeId(Identifier=12911, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxByteStringLength
+        Node ID: NodeId(Identifier=11704, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OperationLimits
+          Node ID: NodeId(Identifier=11705, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerRead
+          Node ID: NodeId(Identifier=11707, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerWrite
+          Node ID: NodeId(Identifier=11709, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerMethodCall
+          Node ID: NodeId(Identifier=11711, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerRegisterNodes
+          Node ID: NodeId(Identifier=11712, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerTranslateBrowsePathsToNodeIds
+          Node ID: NodeId(Identifier=11713, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerNodeManagement
+          Node ID: NodeId(Identifier=11714, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxMonitoredItemsPerCall
+          Node ID: NodeId(Identifier=11710, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerBrowse
+          Node ID: NodeId(Identifier=12165, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryReadData
+          Node ID: NodeId(Identifier=12166, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryReadEvents
+          Node ID: NodeId(Identifier=12167, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryUpdateData
+          Node ID: NodeId(Identifier=12168, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryUpdateEvents
+        Node ID: NodeId(Identifier=11192, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: HistoryServerCapabilities
+          Node ID: NodeId(Identifier=11201, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AggregateFunctions
+            Node ID: NodeId(Identifier=2341, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Interpolative
+            Node ID: NodeId(Identifier=2342, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Average
+            Node ID: NodeId(Identifier=2343, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TimeAverage
+            Node ID: NodeId(Identifier=11285, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TimeAverage2
+            Node ID: NodeId(Identifier=2344, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Total
+            Node ID: NodeId(Identifier=11304, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Total2
+            Node ID: NodeId(Identifier=2346, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Minimum
+            Node ID: NodeId(Identifier=2347, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Maximum
+            Node ID: NodeId(Identifier=2348, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinimumActualTime
+            Node ID: NodeId(Identifier=2349, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaximumActualTime
+            Node ID: NodeId(Identifier=2350, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Range
+            Node ID: NodeId(Identifier=11286, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Minimum2
+            Node ID: NodeId(Identifier=11287, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Maximum2
+            Node ID: NodeId(Identifier=11305, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinimumActualTime2
+            Node ID: NodeId(Identifier=11306, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaximumActualTime2
+            Node ID: NodeId(Identifier=11288, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Range2
+            Node ID: NodeId(Identifier=2352, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Count
+            Node ID: NodeId(Identifier=11308, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationInStateNonZero
+            Node ID: NodeId(Identifier=11307, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationInStateZero
+            Node ID: NodeId(Identifier=2355, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NumberOfTransitions
+            Node ID: NodeId(Identifier=2357, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Start
+            Node ID: NodeId(Identifier=2358, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: End
+            Node ID: NodeId(Identifier=2359, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Delta
+            Node ID: NodeId(Identifier=11505, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StartBound
+            Node ID: NodeId(Identifier=11506, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EndBound
+            Node ID: NodeId(Identifier=11507, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeltaBounds
+            Node ID: NodeId(Identifier=2360, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationGood
+            Node ID: NodeId(Identifier=2361, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DurationBad
+            Node ID: NodeId(Identifier=2362, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PercentGood
+            Node ID: NodeId(Identifier=2363, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PercentBad
+            Node ID: NodeId(Identifier=2364, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: WorstQuality
+            Node ID: NodeId(Identifier=11292, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: WorstQuality2
+            Node ID: NodeId(Identifier=2351, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AnnotationCount
+            Node ID: NodeId(Identifier=11426, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StandardDeviationSample
+            Node ID: NodeId(Identifier=11428, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VarianceSample
+            Node ID: NodeId(Identifier=11427, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StandardDeviationPopulation
+            Node ID: NodeId(Identifier=11429, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VariancePopulation
+          Node ID: NodeId(Identifier=11193, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AccessHistoryDataCapability
+          Node ID: NodeId(Identifier=11242, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AccessHistoryEventsCapability
+          Node ID: NodeId(Identifier=11200, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteAtTimeCapability
+          Node ID: NodeId(Identifier=11502, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteEventCapability
+          Node ID: NodeId(Identifier=11199, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteRawCapability
+          Node ID: NodeId(Identifier=11275, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertAnnotationCapability
+          Node ID: NodeId(Identifier=11196, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertDataCapability
+          Node ID: NodeId(Identifier=11281, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertEventCapability
+          Node ID: NodeId(Identifier=11273, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxReturnDataValues
+          Node ID: NodeId(Identifier=11274, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxReturnEventValues
+          Node ID: NodeId(Identifier=11197, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReplaceDataCapability
+          Node ID: NodeId(Identifier=11282, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReplaceEventCapability
+          Node ID: NodeId(Identifier=11198, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UpdateDataCapability
+          Node ID: NodeId(Identifier=11283, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UpdateEventCapability
+      Node ID: NodeId(Identifier=12637, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerConfiguration
+        Node ID: NodeId(Identifier=14053, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateGroups
+        Node ID: NodeId(Identifier=12640, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxTrustListSize
+        Node ID: NodeId(Identifier=12641, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MulticastDnsEnabled
+        Node ID: NodeId(Identifier=12710, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerCapabilities
+        Node ID: NodeId(Identifier=12639, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SupportedPrivateKeyFormats
+      Node ID: NodeId(Identifier=2274, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnostics
+        Node ID: NodeId(Identifier=3706, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionsDiagnosticsSummary
+          Node ID: NodeId(Identifier=UUID('faf4c40a-99d5-406d-b2de-942dc68bb212'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InternalDefaultSession
+          Node ID: NodeId(Identifier=UUID('4b24df90-2cd6-4957-84e7-7025298011a4'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: urn:WIN-MQSVHHK78MR:National Instruments:MCP_CLIENT
+          Node ID: NodeId(Identifier=UUID('060f36a1-06e3-4536-b19f-b6a23f9d44b7'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: urn:WIN-MQSVHHK78MR:UnifiedAutomation:UaExpert
+          Node ID: NodeId(Identifier=UUID('43caff63-f1f6-44c1-949d-340c9426892e'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Pure Python Async. Client Session1
+        Node ID: NodeId(Identifier=2275, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnosticsSummary
+          Node ID: NodeId(Identifier=2276, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerViewCount
+          Node ID: NodeId(Identifier=2277, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentSessionCount
+          Node ID: NodeId(Identifier=2278, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CumulatedSessionCount
+          Node ID: NodeId(Identifier=2279, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecurityRejectedSessionCount
+          Node ID: NodeId(Identifier=3705, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RejectedSessionCount
+          Node ID: NodeId(Identifier=2281, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionTimeoutCount
+          Node ID: NodeId(Identifier=2282, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionAbortCount
+          Node ID: NodeId(Identifier=2284, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PublishingIntervalCount
+          Node ID: NodeId(Identifier=2285, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentSubscriptionCount
+          Node ID: NodeId(Identifier=2286, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CumulatedSubscriptionCount
+          Node ID: NodeId(Identifier=2287, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecurityRejectedRequestsCount
+          Node ID: NodeId(Identifier=2288, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RejectedRequestsCount
+        Node ID: NodeId(Identifier=2290, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionDiagnosticsArray
+          Node ID: NodeId(Identifier=UUID('479f390c-12db-4a9e-ab81-d985f1dadd60'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: 3889392899
+            Node ID: NodeId(Identifier=UUID('03a6ad12-1547-4a6f-9c49-83e624012f58'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('dd929238-fa5a-4b3e-a6a6-0ff843e45df3'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentLifetimeCount
+            Node ID: NodeId(Identifier=UUID('b5c4a60d-ce45-491d-bc6b-cb7f5d6e6acd'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DataChangeNotificationsCount
+            Node ID: NodeId(Identifier=UUID('759b5878-2350-4177-b207-90801cb0ed85'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisableCount
+            Node ID: NodeId(Identifier=UUID('af0a314f-5f49-46ee-b63b-4f5d12be248d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisabledMonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('8ad0ac3b-c230-4f5b-909c-351b44492097'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DiscardedMessageCount
+            Node ID: NodeId(Identifier=UUID('9b4ca6ca-121f-49ed-9dc0-70c9f63e1144'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnableCount
+            Node ID: NodeId(Identifier=UUID('09f4bcd5-987e-4b62-8970-9634b97bb96b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventNotificationsCount
+            Node ID: NodeId(Identifier=UUID('b56b2f14-5c67-4e6b-8cc8-a9ebb25df559'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventQueueOverFlowCount
+            Node ID: NodeId(Identifier=UUID('f634afff-c657-4624-a68d-c1fc2d426eaa'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: LatePublishRequestCount
+            Node ID: NodeId(Identifier=UUID('200eb2e6-1916-40b9-9ea6-4e2f61ba6651'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('75e59953-ebe8-481c-b706-01e28483a7bf'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxLifetimeCount
+            Node ID: NodeId(Identifier=UUID('266a5a9f-91f4-4eea-b478-4f12120e8fef'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxNotificationsPerPublish
+            Node ID: NodeId(Identifier=UUID('474801d3-1af4-4766-8f07-99b359203f49'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ModifyCount
+            Node ID: NodeId(Identifier=UUID('e4fb9dc0-591d-4295-b509-f35b48e0e9eb'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('9d46ff61-1850-4580-847b-87ec78d040ca'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoringQueueOverflowCount
+            Node ID: NodeId(Identifier=UUID('9a496270-f282-428f-87b8-9dfb7b8c0268'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NextSequenceNumber
+            Node ID: NodeId(Identifier=UUID('24355c46-ed69-450a-b1bb-42a66450aaa6'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NotificationsCount
+            Node ID: NodeId(Identifier=UUID('9fa52cf7-4d67-4cb4-9973-8bcf969739af'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Priority
+            Node ID: NodeId(Identifier=UUID('2e924eae-c9bb-4788-b658-7db3d0de2b27'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingEnabled
+            Node ID: NodeId(Identifier=UUID('09e9df45-0de5-479e-9bc8-92d379557fbe'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingInterval
+            Node ID: NodeId(Identifier=UUID('49c54027-b459-431e-b5e8-e222280ae7c4'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishRequestCount
+            Node ID: NodeId(Identifier=UUID('723c886a-2668-4c6a-82fa-e47776de1614'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageCount
+            Node ID: NodeId(Identifier=UUID('3ae0a528-8d6a-4052-94f0-d8e908ce303d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageRequestCount
+            Node ID: NodeId(Identifier=UUID('66cd441d-c12f-4878-87b0-cb1fd6d454c7'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishRequestCount
+            Node ID: NodeId(Identifier=UUID('63616486-5fa8-4fcd-804f-3f77c1804d6d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SessionId
+            Node ID: NodeId(Identifier=UUID('43942a38-f9d1-472a-a7af-6cc854fa5fa8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SubscriptionId
+            Node ID: NodeId(Identifier=UUID('4deccefe-01e1-4818-a64c-2faed9103676'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToAltClientCount
+            Node ID: NodeId(Identifier=UUID('b3154e38-e6b4-43a3-a228-86d79f15f167'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToSameClientCount
+            Node ID: NodeId(Identifier=UUID('e31326b1-0878-4b61-b920-bd88899254a8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferRequestCount
+            Node ID: NodeId(Identifier=UUID('971ccebf-7296-4289-be11-3112daa71447'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: UnacknowledgedMessageCount
+          Node ID: NodeId(Identifier=UUID('5982f514-0607-43c2-8390-9f7b1df2e58e'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: 3889392900
+            Node ID: NodeId(Identifier=UUID('19847a36-212c-4047-89eb-62ec1b799475'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('e4e864a0-80eb-4c38-be78-df9bf34a5450'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentLifetimeCount
+            Node ID: NodeId(Identifier=UUID('ac4154be-ed73-4426-beb5-4305751c8318'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DataChangeNotificationsCount
+            Node ID: NodeId(Identifier=UUID('c5785a70-03fa-4798-81d8-952edb43e1ab'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisableCount
+            Node ID: NodeId(Identifier=UUID('4dfe58e6-a568-4b09-9512-d5fe5479c383'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisabledMonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('31a7fcb8-8a41-420d-9f8d-c4b9ca1e5f61'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DiscardedMessageCount
+            Node ID: NodeId(Identifier=UUID('0c1d2044-a7d3-4f86-94e0-4c47f61a39dd'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnableCount
+            Node ID: NodeId(Identifier=UUID('faf63a4c-52a1-4a08-b3f8-85cca613b3e7'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventNotificationsCount
+            Node ID: NodeId(Identifier=UUID('166ab2cf-4a0e-4255-8536-5a7c4c93b9a8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventQueueOverFlowCount
+            Node ID: NodeId(Identifier=UUID('a6acba27-194d-49fa-98b1-ce25cae593cc'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: LatePublishRequestCount
+            Node ID: NodeId(Identifier=UUID('8bdc7e64-7987-4810-b8ea-e6257c38ce6b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('6e9edae7-a14e-4a16-b05a-2d4387c94a1c'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxLifetimeCount
+            Node ID: NodeId(Identifier=UUID('6f52de41-ad41-4ef4-80a7-d61860326f59'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxNotificationsPerPublish
+            Node ID: NodeId(Identifier=UUID('69e8c24c-0e00-4a13-9ff4-8a979f197211'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ModifyCount
+            Node ID: NodeId(Identifier=UUID('8457b28a-2753-4ca0-b389-c7c104d8c9c5'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('ddb2fcbe-0c95-42e7-8fce-e969cadcb74c'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoringQueueOverflowCount
+            Node ID: NodeId(Identifier=UUID('53e007c9-0665-43d3-add8-d0972a5dfbe1'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NextSequenceNumber
+            Node ID: NodeId(Identifier=UUID('75edacc6-cd8f-408b-ac81-265c321b9a54'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NotificationsCount
+            Node ID: NodeId(Identifier=UUID('99094e68-a738-4230-8b48-4477c84fd33f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Priority
+            Node ID: NodeId(Identifier=UUID('6614ca92-4e48-43bc-a7f7-b8d9f9032a1d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingEnabled
+            Node ID: NodeId(Identifier=UUID('55dc2237-561c-45fd-b2cb-6d2486e5945d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingInterval
+            Node ID: NodeId(Identifier=UUID('f1ecf374-f26c-4bb6-b58e-6f2eb0e2cad7'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishRequestCount
+            Node ID: NodeId(Identifier=UUID('100aa1eb-d079-4bde-88fa-52b64399b279'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageCount
+            Node ID: NodeId(Identifier=UUID('9e454962-6d7b-47fa-8f3d-3705e0e4f00a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageRequestCount
+            Node ID: NodeId(Identifier=UUID('35b0d69b-964a-449d-b781-72e98f98932e'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishRequestCount
+            Node ID: NodeId(Identifier=UUID('c9b7e275-7c4a-4208-b1d1-d30e842fe3f1'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SessionId
+            Node ID: NodeId(Identifier=UUID('2a14ab43-0b9b-42e4-af2b-881a2f014f96'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SubscriptionId
+            Node ID: NodeId(Identifier=UUID('2d66c86c-6e81-4f24-9ebb-a3508a447b64'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToAltClientCount
+            Node ID: NodeId(Identifier=UUID('fa66f443-ea10-40ff-a36e-46299e6e6f76'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToSameClientCount
+            Node ID: NodeId(Identifier=UUID('45bf8828-801c-4a13-99e9-5f5b57b8e306'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferRequestCount
+            Node ID: NodeId(Identifier=UUID('3a8106de-0260-4e9e-8912-1a8389d7af73'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: UnacknowledgedMessageCount
+          Node ID: NodeId(Identifier=UUID('a339d12f-82ec-44dd-ab32-db2942375941'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: 3889392901
+            Node ID: NodeId(Identifier=UUID('c9a860be-cdd3-468f-9d64-ec15513bbf4d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('a316252b-5815-428c-a1d2-c167165bebff'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: CurrentLifetimeCount
+            Node ID: NodeId(Identifier=UUID('7f4a5f6d-4fca-4c87-9c79-de2a8b9ffca2'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DataChangeNotificationsCount
+            Node ID: NodeId(Identifier=UUID('1020176a-b990-48ea-8df5-5a2092503afa'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisableCount
+            Node ID: NodeId(Identifier=UUID('bfbe87db-c736-42d8-8b85-0be9805d3bbc'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisabledMonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('ab6c9c5e-53a8-4a46-82d4-4655ea4c3983'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DiscardedMessageCount
+            Node ID: NodeId(Identifier=UUID('39085ddc-b01d-483a-b037-4a00af3f7de0'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnableCount
+            Node ID: NodeId(Identifier=UUID('5d1b691d-2e7f-472e-9bde-403d4653eda0'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventNotificationsCount
+            Node ID: NodeId(Identifier=UUID('c7934ba9-951a-4d85-9535-e93b496fbab0'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EventQueueOverFlowCount
+            Node ID: NodeId(Identifier=UUID('4d1562e1-6788-4834-b3f5-dc6a40ca2dec'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: LatePublishRequestCount
+            Node ID: NodeId(Identifier=UUID('42f5995d-b0dc-4374-8a99-72bdb231994b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxKeepAliveCount
+            Node ID: NodeId(Identifier=UUID('e3cd1e87-bb0d-4fab-acb9-491b69e162b8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxLifetimeCount
+            Node ID: NodeId(Identifier=UUID('72aff477-5fa4-4063-a287-6a9f047634b9'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxNotificationsPerPublish
+            Node ID: NodeId(Identifier=UUID('3300f011-5da9-436a-aae5-102dc3c64783'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ModifyCount
+            Node ID: NodeId(Identifier=UUID('eaeb075d-60ca-4e10-b353-0e008d32d7de'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoredItemCount
+            Node ID: NodeId(Identifier=UUID('46768a26-a5cc-4e86-9737-d47e45aca96c'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MonitoringQueueOverflowCount
+            Node ID: NodeId(Identifier=UUID('113d20d5-6837-4f5c-99af-15344e12c03a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NextSequenceNumber
+            Node ID: NodeId(Identifier=UUID('1cc0ad8e-053c-4b1b-9ff1-10365c1d27b6'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: NotificationsCount
+            Node ID: NodeId(Identifier=UUID('09636b8b-7fe9-4e09-b174-72617df2dfa7'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Priority
+            Node ID: NodeId(Identifier=UUID('07fa68b9-5290-4403-b3de-dc2d6624f1ca'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingEnabled
+            Node ID: NodeId(Identifier=UUID('8a05b590-3974-407c-a071-0f4202b09629'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishingInterval
+            Node ID: NodeId(Identifier=UUID('b6876737-e2b5-4e9b-88f4-a90d37408b8f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: PublishRequestCount
+            Node ID: NodeId(Identifier=UUID('5976c7d8-2f7e-477b-8c52-934efb4479bf'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageCount
+            Node ID: NodeId(Identifier=UUID('23d8513f-726c-4c84-9778-0188972989b9'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishMessageRequestCount
+            Node ID: NodeId(Identifier=UUID('f2724db9-d740-43ee-9f11-1dd13a360ec1'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: RepublishRequestCount
+            Node ID: NodeId(Identifier=UUID('f1253b2b-5fc8-455e-9d42-4941c068536f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SessionId
+            Node ID: NodeId(Identifier=UUID('d0df4c71-220a-44a1-8a7c-07a0c3508c41'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SubscriptionId
+            Node ID: NodeId(Identifier=UUID('a632a4f8-33b2-488d-9b81-7f1ee3bae16f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToAltClientCount
+            Node ID: NodeId(Identifier=UUID('268caa9e-eebe-4bfe-bd44-a5c051379e7b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferredToSameClientCount
+            Node ID: NodeId(Identifier=UUID('1a0c89c9-fb67-46f6-941d-fd3ba1477f42'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TransferRequestCount
+            Node ID: NodeId(Identifier=UUID('b7f647c5-cb51-4dd6-b226-0432d1bf1f05'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: UnacknowledgedMessageCount
+        Node ID: NodeId(Identifier=2289, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SamplingIntervalDiagnosticsArray
+        Node ID: NodeId(Identifier=2294, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnabledFlag
+      Node ID: NodeId(Identifier=2295, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VendorServerInfo
+        Node ID: NodeId(Identifier='ObjectStatistics', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: ObjectStatistics
+          Node ID: NodeId(Identifier='ObjectStatistics_SecureChannel', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: SecureChannel
+          Node ID: NodeId(Identifier='ObjectStatistics_SecureChannelCumulated', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: SecureChannelCumulated
+          Node ID: NodeId(Identifier='ObjectStatistics_Session', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: Session
+          Node ID: NodeId(Identifier='ObjectStatistics_UaNode', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaNode
+          Node ID: NodeId(Identifier='ObjectStatistics_UaObject', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaObject
+          Node ID: NodeId(Identifier='ObjectStatistics_UaObjectType', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaObjectType
+          Node ID: NodeId(Identifier='ObjectStatistics_UaVariable', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaVariable
+          Node ID: NodeId(Identifier='ObjectStatistics_UaVariableType', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaVariableType
+          Node ID: NodeId(Identifier='ObjectStatistics_UaDataType', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaDataType
+          Node ID: NodeId(Identifier='ObjectStatistics_UaView', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaView
+          Node ID: NodeId(Identifier='ObjectStatistics_UaMethod', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaMethod
+          Node ID: NodeId(Identifier='ObjectStatistics_UaReferenceType', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaReferenceType
+          Node ID: NodeId(Identifier='ObjectStatistics_UaMutex', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: UaMutex
+          Node ID: NodeId(Identifier='ObjectStatistics_Subscription', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: Subscription
+          Node ID: NodeId(Identifier='ObjectStatistics_MonitoredItemData', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: MonitoredItemData
+          Node ID: NodeId(Identifier='ObjectStatistics_MonitoredItemEvent', NamespaceIndex=1, NodeIdType=<NodeIdType.String: 3>), Name: MonitoredItemEvent
+        Node ID: NodeId(Identifier=UUID('1c35cb2b-e5d0-495a-93c9-da095c652230'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Trace
+          Node ID: NodeId(Identifier=UUID('2af90acb-490c-4e01-b257-158bfcf0b273'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeConfiguration
+            Node ID: NodeId(Identifier=UUID('20d890bf-ecf5-4403-b0d4-c1957408b3ed'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+          Node ID: NodeId(Identifier=UUID('85b2af5f-fddf-4c91-b574-806dbcd715b6'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SetDisableFlush
+            Node ID: NodeId(Identifier=UUID('bd34fa80-720c-45a9-8c87-1da0604c4690'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+          Node ID: NodeId(Identifier=UUID('36d806ba-6c60-482a-944d-470990f2be6a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SetActiveState
+            Node ID: NodeId(Identifier=UUID('381ba731-f9b8-4ec2-843f-37f3227d7505'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+          Node ID: NodeId(Identifier=UUID('9c789138-c5c9-4370-80f3-da5fc9046805'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeStackTraceConfiguration
+            Node ID: NodeId(Identifier=UUID('9fb5d257-45f5-4402-8006-3c5c6d4ed5fe'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+          Node ID: NodeId(Identifier=UUID('8c066ae0-6fba-4e10-8b9b-4929814175d8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: IsActive
+          Node ID: NodeId(Identifier=UUID('4c3aca48-9c72-4eca-b25f-95ed146b6c17'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceLevel
+          Node ID: NodeId(Identifier=UUID('5936a912-4dac-48b1-ab12-9da861175ae8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxEntries
+          Node ID: NodeId(Identifier=UUID('699a3a99-7737-438f-84c6-3d27a12f8c5a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxBackupFiles
+          Node ID: NodeId(Identifier=UUID('95c50615-4064-4480-9985-760e59533772'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisableFlush
+          Node ID: NodeId(Identifier=UUID('7cc13418-4d3b-4227-ad93-3b6f33da5a5b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceFile
+          Node ID: NodeId(Identifier=UUID('a29d8c94-ce2c-4559-9915-f67768614416'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: StackTraceActive
+          Node ID: NodeId(Identifier=UUID('beab1aa8-457f-4a70-bd0a-830fff7cb04f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: StackTraceLevel
+          Node ID: NodeId(Identifier=UUID('402d7571-2a39-420d-a045-6c5d3b6c668e'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeTraceEventConfiguration
+            Node ID: NodeId(Identifier=UUID('02100f26-14bd-4f6d-9131-7e66e8013249'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+          Node ID: NodeId(Identifier=UUID('9d15fb6b-818f-421a-b822-bdcf8963e029'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceEventLevel
+      Node ID: NodeId(Identifier=2296, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerRedundancy
+        Node ID: NodeId(Identifier=3709, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RedundancySupport
+      Node ID: NodeId(Identifier=11492, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetMonitoredItems
+        Node ID: NodeId(Identifier=11493, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+        Node ID: NodeId(Identifier=11494, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+      Node ID: NodeId(Identifier=12873, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ResendData
+        Node ID: NodeId(Identifier=12874, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+      Node ID: NodeId(Identifier=UUID('1c35cb2b-e5d0-495a-93c9-da095c652230'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: Trace
+        Node ID: NodeId(Identifier=UUID('2af90acb-490c-4e01-b257-158bfcf0b273'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeConfiguration
+          Node ID: NodeId(Identifier=UUID('20d890bf-ecf5-4403-b0d4-c1957408b3ed'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+        Node ID: NodeId(Identifier=UUID('85b2af5f-fddf-4c91-b574-806dbcd715b6'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SetDisableFlush
+          Node ID: NodeId(Identifier=UUID('bd34fa80-720c-45a9-8c87-1da0604c4690'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+        Node ID: NodeId(Identifier=UUID('36d806ba-6c60-482a-944d-470990f2be6a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: SetActiveState
+          Node ID: NodeId(Identifier=UUID('381ba731-f9b8-4ec2-843f-37f3227d7505'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+        Node ID: NodeId(Identifier=UUID('9c789138-c5c9-4370-80f3-da5fc9046805'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeStackTraceConfiguration
+          Node ID: NodeId(Identifier=UUID('9fb5d257-45f5-4402-8006-3c5c6d4ed5fe'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+        Node ID: NodeId(Identifier=UUID('8c066ae0-6fba-4e10-8b9b-4929814175d8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: IsActive
+        Node ID: NodeId(Identifier=UUID('4c3aca48-9c72-4eca-b25f-95ed146b6c17'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceLevel
+        Node ID: NodeId(Identifier=UUID('5936a912-4dac-48b1-ab12-9da861175ae8'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxEntries
+        Node ID: NodeId(Identifier=UUID('699a3a99-7737-438f-84c6-3d27a12f8c5a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: MaxBackupFiles
+        Node ID: NodeId(Identifier=UUID('95c50615-4064-4480-9985-760e59533772'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: DisableFlush
+        Node ID: NodeId(Identifier=UUID('7cc13418-4d3b-4227-ad93-3b6f33da5a5b'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceFile
+        Node ID: NodeId(Identifier=UUID('a29d8c94-ce2c-4559-9915-f67768614416'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: StackTraceActive
+        Node ID: NodeId(Identifier=UUID('beab1aa8-457f-4a70-bd0a-830fff7cb04f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: StackTraceLevel
+        Node ID: NodeId(Identifier=UUID('402d7571-2a39-420d-a045-6c5d3b6c668e'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: ChangeTraceEventConfiguration
+          Node ID: NodeId(Identifier=UUID('02100f26-14bd-4f6d-9131-7e66e8013249'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: InputArguments
+        Node ID: NodeId(Identifier=UUID('9d15fb6b-818f-421a-b822-bdcf8963e029'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceEventLevel
+    Node ID: NodeId(Identifier='Target 1', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Target 1
+      Node ID: NodeId(Identifier='Target 1.FPGA', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FPGA
+      Node ID: NodeId(Identifier='Target 1.MTLS-0004 1', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.V Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.V Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.X Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.X Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.X Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.X Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Y Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Y Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Y Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Y Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.D0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.D0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.D1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.D1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.P0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.P0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.P1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.P1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Z0 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Z0 Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Z0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Z0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Z1 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Z1 Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Z1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Z1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Laser Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Laser Status
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Laser0 Enable"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Laser0 Enable
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Laser1 Enable"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Laser1 Enable
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Module Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Module Status
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Datablock Info"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Datablock Info
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 1."MTLS-0004 1.Feedback BeamShape"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 1.Feedback BeamShape
+      Node ID: NodeId(Identifier='Target 1.MTLS-0004 2', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.V Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.V Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.X Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.X Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.X Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.X Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Y Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Y Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Y Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Y Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.D0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.D0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.D1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.D1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.P0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.P0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.P1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.P1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Z0 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Z0 Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Z0 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Z0 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Z1 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Z1 Feedback
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Z1 Setpoint"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Z1 Setpoint
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Laser Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Laser Status
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Laser0 Enable"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Laser0 Enable
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Laser1 Enable"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Laser1 Enable
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Module Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Module Status
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Datablock Info"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Datablock Info
+        Node ID: NodeId(Identifier='Target 1.MTLS-0004 2."MTLS-0004 2.Feedback BeamShape"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: MTLS-0004 2.Feedback BeamShape
+    Node ID: NodeId(Identifier='Components', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Components
+    Node ID: NodeId(Identifier='Scan System', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System
+      Node ID: NodeId(Identifier='Scan System.Scan Field 0', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Power Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Power Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Power Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Power Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Control Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Control Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Status Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Status Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Control Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Control Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Diameter Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Diameter Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0.Laser 0."Laser 0.Diameter Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 0.Diameter Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Status
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Command
+          Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.V Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.V Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.X Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.X Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Y Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Y Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.V Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.V Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.X Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.X Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Y Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Y Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Z0 Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Z0 Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Z1 Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Z1 Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Z0 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Z0 Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Z1 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Z1 Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 0."Scan Field 0.Datablock Info"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 0.Datablock Info
+      Node ID: NodeId(Identifier='Scan System.Scan Field 1', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Power Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Power Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Power Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Power Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Control Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Control Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Status Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Status Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Control Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Control Feedback
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Diameter Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Diameter Request
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1.Laser 1."Laser 1.Diameter Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser 1.Diameter Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Status
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Command
+          Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.V Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.V Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.X Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.X Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Y Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Y Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.V Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.V Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.X Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.X Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Y Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Y Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Z0 Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Z0 Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Z1 Request"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Z1 Request
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Z0 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Z0 Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Z1 Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Z1 Feedback
+        Node ID: NodeId(Identifier='Scan System.Scan Field 1."Scan Field 1.Datablock Info"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan Field 1.Datablock Info
+      Node ID: NodeId(Identifier='Scan System."Scan System.JobID"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.JobID
+      Node ID: NodeId(Identifier='Scan System."Scan System.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Status
+        Node ID: NodeId(Identifier='Scan System."Scan System.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Scan System."Scan System.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Command
+        Node ID: NodeId(Identifier='Scan System."Scan System.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Scan System."Scan System.JobFile"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.JobFile
+      Node ID: NodeId(Identifier='Scan System."Scan System.Total Layers"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Total Layers
+      Node ID: NodeId(Identifier='Scan System."Scan System.Current Layer"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Current Layer
+      Node ID: NodeId(Identifier='Scan System."Scan System.Current Height"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Current Height
+      Node ID: NodeId(Identifier='Scan System."Scan System.Remaining Scan Time"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System.Remaining Scan Time
+    Node ID: NodeId(Identifier='FanController', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController
+      Node ID: NodeId(Identifier='FanController."FanController.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController.Status
+        Node ID: NodeId(Identifier='FanController."FanController.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='FanController."FanController.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController.Command
+        Node ID: NodeId(Identifier='FanController."FanController.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='FanController."FanController.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController.Line Number
+      Node ID: NodeId(Identifier='FanController."FanController.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController.Script Name
+      Node ID: NodeId(Identifier='FanController."FanController.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController.Script Error
+    Node ID: NodeId(Identifier='User Channels', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: User Channels
+      Node ID: NodeId(Identifier='User Channels.FanController', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanController
+        Node ID: NodeId(Identifier='User Channels.FanController.FanLoop', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanLoop
+          Node ID: NodeId(Identifier='User Channels.FanController.FanLoop."FanLoop.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanLoop.Command
+          Node ID: NodeId(Identifier='User Channels.FanController.FanLoop."FanLoop.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: FanLoop.Feedback
+        Node ID: NodeId(Identifier='User Channels.FanController."Fan.On"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Fan.On
+        Node ID: NodeId(Identifier='User Channels.FanController."Fan.Speed"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Fan.Speed
+        Node ID: NodeId(Identifier='User Channels.FanController."Fan.WaitTime"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Fan.WaitTime
+      Node ID: NodeId(Identifier='User Channels.Circle Alignment', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Circle Alignment
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.SpotShot', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: SpotShot
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Laser Power', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser Power
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Laser Speed', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser Speed
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Circle Status', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Circle Status
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.CircleCommand', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: CircleCommand
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Laser Diameter', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser Diameter
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Circle Diameter', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Circle Diameter
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.Laser ScanField', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Laser ScanField
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.CircleCoordinates', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: CircleCoordinates
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment.SpotShot Duration', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: SpotShot Duration
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment."CircleAlignment.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: CircleAlignment.Command
+        Node ID: NodeId(Identifier='User Channels.Circle Alignment."CircleAlignment.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: CircleAlignment.Feedback
+      Node ID: NodeId(Identifier='User Channels.LLA150 data script', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LLA150 data script
+      Node ID: NodeId(Identifier='User Channels.LLA150 powercalibration data script', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LLA150 powercalibration data script
+      Node ID: NodeId(Identifier='User Channels.LLA150 diametercalibration data script', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LLA150 diametercalibration data script
+    Node ID: NodeId(Identifier='System Monitor', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.CPU"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.CPU
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Error Log"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Error Log
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Watch Dog"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Watch Dog
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Disk Usage"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Disk Usage
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.System Time"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.System Time
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Emergency Stop"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Emergency Stop
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Virtual Memory"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Virtual Memory
+      Node ID: NodeId(Identifier='System Monitor."System Monitor.Physical Memory"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: System Monitor.Physical Memory
+    Node ID: NodeId(Identifier='Logging Service', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service
+      Node ID: NodeId(Identifier='Logging Service.LogChannel', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LogChannel
+      Node ID: NodeId(Identifier='Logging Service.LoggerPath', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LoggerPath
+      Node ID: NodeId(Identifier='Logging Service.LoggerStatus', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LoggerStatus
+      Node ID: NodeId(Identifier='Logging Service.LoggerCommand', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: LoggerCommand
+      Node ID: NodeId(Identifier='Logging Service."Logging Service.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service.Status
+        Node ID: NodeId(Identifier='Logging Service."Logging Service.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Logging Service."Logging Service.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service.Command
+        Node ID: NodeId(Identifier='Logging Service."Logging Service.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Logging Service."Logging Service.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service.Line Number
+      Node ID: NodeId(Identifier='Logging Service."Logging Service.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service.Script Name
+      Node ID: NodeId(Identifier='Logging Service."Logging Service.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Logging Service.Script Error
+    Node ID: NodeId(Identifier='Manager Service', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service
+      Node ID: NodeId(Identifier='Manager Service."ServiceManager.List"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ServiceManager.List
+      Node ID: NodeId(Identifier='Manager Service."Manager Service.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service.Status
+        Node ID: NodeId(Identifier='Manager Service."Manager Service.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Manager Service."ServiceManager.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ServiceManager.Command
+      Node ID: NodeId(Identifier='Manager Service."Manager Service.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service.Command
+        Node ID: NodeId(Identifier='Manager Service."Manager Service.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Manager Service."ServiceManager.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ServiceManager.Feedback
+      Node ID: NodeId(Identifier='Manager Service."Manager Service.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service.Line Number
+      Node ID: NodeId(Identifier='Manager Service."Manager Service.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service.Script Name
+      Node ID: NodeId(Identifier='Manager Service."Manager Service.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Manager Service.Script Error
+    Node ID: NodeId(Identifier='ScanSystemLogging', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging
+      Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging.Status
+        Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging.Command
+        Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging.Line Number
+      Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging.Script Name
+      Node ID: NodeId(Identifier='ScanSystemLogging."ScanSystemLogging.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: ScanSystemLogging.Script Error
+    Node ID: NodeId(Identifier='Persistency Service', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service
+      Node ID: NodeId(Identifier='Persistency Service."PersistencyManager.State"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: PersistencyManager.State
+      Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service.Status
+        Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Persistency Service."PersistencyManager.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: PersistencyManager.Command
+      Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service.Command
+        Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Persistency Service."PersistencyManager.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: PersistencyManager.Feedback
+      Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service.Line Number
+      Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service.Script Name
+      Node ID: NodeId(Identifier='Persistency Service."Persistency Service.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Persistency Service.Script Error
+    Node ID: NodeId(Identifier='Training Script Service', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service
+      Node ID: NodeId(Identifier='Training Script Service."Training Script.State"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script.State
+      Node ID: NodeId(Identifier='Training Script Service."Training Script.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script.Command
+      Node ID: NodeId(Identifier='Training Script Service."Training Script.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script.Feedback
+      Node ID: NodeId(Identifier='Training Script Service."Training Script.Command List"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script.Command List
+      Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service.Status
+        Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service.Command
+        Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service.Line Number
+      Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service.Script Name
+      Node ID: NodeId(Identifier='Training Script Service."Training Script Service.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Training Script Service.Script Error
+    Node ID: NodeId(Identifier='Scan System Wrapper Service', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper.List"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper.List
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper.State"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper.State
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper.Command
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper.Feedback"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper.Feedback
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Status"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service.Status
+        Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Status".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Command"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service.Command
+        Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Command".EnumStrings', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: EnumStrings
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Line Number"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service.Line Number
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Script Name"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service.Script Name
+      Node ID: NodeId(Identifier='Scan System Wrapper Service."Scan System Wrapper Service.Script Error"', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>), Name: Scan System Wrapper Service.Script Error
+  Node ID: NodeId(Identifier=86, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Types
+    Node ID: NodeId(Identifier=90, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypes
+      Node ID: NodeId(Identifier=24, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: BaseDataType
+        Node ID: NodeId(Identifier=1, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Boolean
+        Node ID: NodeId(Identifier=15, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ByteString
+          Node ID: NodeId(Identifier=30, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Image
+            Node ID: NodeId(Identifier=2000, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ImageBMP
+            Node ID: NodeId(Identifier=2001, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ImageGIF
+            Node ID: NodeId(Identifier=2002, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ImageJPG
+            Node ID: NodeId(Identifier=2003, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ImagePNG
+        Node ID: NodeId(Identifier=13, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DateTime
+          Node ID: NodeId(Identifier=294, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UtcTime
+        Node ID: NodeId(Identifier=23, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataValue
+        Node ID: NodeId(Identifier=25, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DiagnosticInfo
+        Node ID: NodeId(Identifier=29, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Enumeration
+          Node ID: NodeId(Identifier=256, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: IdType
+            Node ID: NodeId(Identifier=7591, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=257, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NodeClass
+          Node ID: NodeId(Identifier=315, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecurityTokenRequestType
+            Node ID: NodeId(Identifier=7598, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=120, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamingRuleType
+            Node ID: NodeId(Identifier=12169, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=302, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MessageSecurityMode
+            Node ID: NodeId(Identifier=7595, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=851, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RedundancySupport
+            Node ID: NodeId(Identifier=7611, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=852, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerState
+            Node ID: NodeId(Identifier=7612, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=890, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ExceptionDeviationFormat
+            Node ID: NodeId(Identifier=7614, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumStrings
+          Node ID: NodeId(Identifier=UUID('c2089763-b599-482c-9664-e7fa2fa3b654'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceLevel
+            Node ID: NodeId(Identifier=UUID('c18187b6-7a34-4711-9089-362b2483106a'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnumStrings
+          Node ID: NodeId(Identifier=UUID('da34e7f4-50f8-426a-a000-26d080378466'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: StackTraceLevel
+            Node ID: NodeId(Identifier=UUID('dc5f4635-457a-4128-9e4f-216a45bed8ee'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnumStrings
+          Node ID: NodeId(Identifier=UUID('134100ec-ce0e-4d61-8d37-f1511b6faa8d'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: TraceEventLevel
+            Node ID: NodeId(Identifier=UUID('456f94cd-3656-4363-81cb-0a8bbb8e537f'), NamespaceIndex=1, NodeIdType=<NodeIdType.Guid: 4>), Name: EnumStrings
+        Node ID: NodeId(Identifier=18, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ExpandedNodeId
+        Node ID: NodeId(Identifier=14, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Guid
+        Node ID: NodeId(Identifier=21, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: LocalizedText
+        Node ID: NodeId(Identifier=17, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NodeId
+        Node ID: NodeId(Identifier=26, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Number
+          Node ID: NodeId(Identifier=27, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Integer
+            Node ID: NodeId(Identifier=2, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: SByte
+            Node ID: NodeId(Identifier=4, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Int16
+            Node ID: NodeId(Identifier=6, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Int32
+            Node ID: NodeId(Identifier=8, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Int64
+          Node ID: NodeId(Identifier=28, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: UInteger
+            Node ID: NodeId(Identifier=3, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Byte
+            Node ID: NodeId(Identifier=5, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: UInt16
+            Node ID: NodeId(Identifier=7, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: UInt32
+            Node ID: NodeId(Identifier=9, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: UInt64
+          Node ID: NodeId(Identifier=11, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Double
+            Node ID: NodeId(Identifier=290, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Duration
+          Node ID: NodeId(Identifier=10, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Float
+        Node ID: NodeId(Identifier=20, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: QualifiedName
+        Node ID: NodeId(Identifier=19, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: StatusCode
+        Node ID: NodeId(Identifier=12, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: String
+          Node ID: NodeId(Identifier=295, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LocaleId
+          Node ID: NodeId(Identifier=291, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NumericRange
+        Node ID: NodeId(Identifier=22, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Structure
+          Node ID: NodeId(Identifier=296, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Argument
+          Node ID: NodeId(Identifier=316, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserIdentityToken
+            Node ID: NodeId(Identifier=322, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserNameIdentityToken
+            Node ID: NodeId(Identifier=325, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: X509IdentityToken
+            Node ID: NodeId(Identifier=319, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AnonymousIdentityToken
+          Node ID: NodeId(Identifier=376, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AddNodesItem
+          Node ID: NodeId(Identifier=379, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AddReferencesItem
+          Node ID: NodeId(Identifier=382, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteNodesItem
+          Node ID: NodeId(Identifier=385, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteReferencesItem
+          Node ID: NodeId(Identifier=308, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ApplicationDescription
+          Node ID: NodeId(Identifier=338, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildInfo
+          Node ID: NodeId(Identifier=856, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SamplingIntervalDiagnosticsDataType
+          Node ID: NodeId(Identifier=859, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnosticsSummaryDataType
+          Node ID: NodeId(Identifier=862, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerStatusDataType
+          Node ID: NodeId(Identifier=865, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionDiagnosticsDataType
+          Node ID: NodeId(Identifier=868, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionSecurityDiagnosticsDataType
+          Node ID: NodeId(Identifier=871, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServiceCounterDataType
+          Node ID: NodeId(Identifier=341, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareCertificate
+          Node ID: NodeId(Identifier=299, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StatusResult
+          Node ID: NodeId(Identifier=874, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionDiagnosticsDataType
+          Node ID: NodeId(Identifier=877, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ModelChangeStructureDataType
+          Node ID: NodeId(Identifier=897, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SemanticChangeStructureDataType
+          Node ID: NodeId(Identifier=344, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SignedSoftwareCertificate
+          Node ID: NodeId(Identifier=884, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Range
+          Node ID: NodeId(Identifier=887, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EUInformation
+          Node ID: NodeId(Identifier=8912, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TimeZoneDataType
+          Node ID: NodeId(Identifier=12755, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OptionSet
+          Node ID: NodeId(Identifier=12756, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Union
+          Node ID: NodeId(Identifier=7594, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnumValueType
+        Node ID: NodeId(Identifier=16, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: XmlElement
+      Node ID: NodeId(Identifier=93, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: OPC Binary
+      Node ID: NodeId(Identifier=92, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: XML Schema
+    Node ID: NodeId(Identifier=91, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ReferenceTypes
+      Node ID: NodeId(Identifier=31, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: References
+        Node ID: NodeId(Identifier=33, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HierarchicalReferences
+          Node ID: NodeId(Identifier=35, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Organizes
+          Node ID: NodeId(Identifier=36, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasEventSource
+            Node ID: NodeId(Identifier=48, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasNotifier
+          Node ID: NodeId(Identifier=34, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasChild
+            Node ID: NodeId(Identifier=45, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasSubtype
+            Node ID: NodeId(Identifier=44, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: Aggregates
+              Node ID: NodeId(Identifier=56, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasHistoricalConfiguration
+              Node ID: NodeId(Identifier=47, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasComponent
+                Node ID: NodeId(Identifier=49, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasOrderedComponent
+              Node ID: NodeId(Identifier=46, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasProperty
+        Node ID: NodeId(Identifier=32, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NonHierarchicalReferences
+          Node ID: NodeId(Identifier=37, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasModellingRule
+          Node ID: NodeId(Identifier=40, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasTypeDefinition
+          Node ID: NodeId(Identifier=38, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasEncoding
+          Node ID: NodeId(Identifier=39, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasDescription
+          Node ID: NodeId(Identifier=41, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: GeneratesEvent
+          Node ID: NodeId(Identifier=9006, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: HasCondition
+          Node ID: NodeId(Identifier=51, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: FromState
+          Node ID: NodeId(Identifier=52, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ToState
+          Node ID: NodeId(Identifier=53, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasCause
+          Node ID: NodeId(Identifier=54, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: HasEffect
+          Node ID: NodeId(Identifier=9004, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: HasTrueSubState
+          Node ID: NodeId(Identifier=9005, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: HasFalseSubState
+    Node ID: NodeId(Identifier=89, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: VariableTypes
+      Node ID: NodeId(Identifier=62, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: BaseVariableType
+        Node ID: NodeId(Identifier=68, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: PropertyType
+        Node ID: NodeId(Identifier=63, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: BaseDataVariableType
+          Node ID: NodeId(Identifier=2137, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerVendorCapabilityType
+          Node ID: NodeId(Identifier=72, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeDictionaryType
+            Node ID: NodeId(Identifier=106, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeVersion
+            Node ID: NodeId(Identifier=107, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamespaceUri
+          Node ID: NodeId(Identifier=69, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeDescriptionType
+            Node ID: NodeId(Identifier=104, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeVersion
+            Node ID: NodeId(Identifier=105, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DictionaryFragment
+          Node ID: NodeId(Identifier=2138, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerStatusType
+            Node ID: NodeId(Identifier=2139, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StartTime
+            Node ID: NodeId(Identifier=2140, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentTime
+            Node ID: NodeId(Identifier=2141, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: State
+            Node ID: NodeId(Identifier=2752, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecondsTillShutdown
+            Node ID: NodeId(Identifier=2753, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ShutdownReason
+            Node ID: NodeId(Identifier=2142, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildInfo
+              Node ID: NodeId(Identifier=3698, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductUri
+              Node ID: NodeId(Identifier=3699, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ManufacturerName
+              Node ID: NodeId(Identifier=3700, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductName
+              Node ID: NodeId(Identifier=3701, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareVersion
+              Node ID: NodeId(Identifier=3702, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildNumber
+              Node ID: NodeId(Identifier=3703, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildDate
+          Node ID: NodeId(Identifier=3051, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildInfoType
+            Node ID: NodeId(Identifier=3052, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductUri
+            Node ID: NodeId(Identifier=3053, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ManufacturerName
+            Node ID: NodeId(Identifier=3054, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductName
+            Node ID: NodeId(Identifier=3055, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareVersion
+            Node ID: NodeId(Identifier=3056, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildNumber
+            Node ID: NodeId(Identifier=3057, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildDate
+          Node ID: NodeId(Identifier=2150, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnosticsSummaryType
+          Node ID: NodeId(Identifier=2164, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SamplingIntervalDiagnosticsArrayType
+          Node ID: NodeId(Identifier=2165, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SamplingIntervalDiagnosticsType
+          Node ID: NodeId(Identifier=2171, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionDiagnosticsArrayType
+          Node ID: NodeId(Identifier=2172, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionDiagnosticsType
+            Node ID: NodeId(Identifier=8890, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentKeepAliveCount
+            Node ID: NodeId(Identifier=8891, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentLifetimeCount
+            Node ID: NodeId(Identifier=2191, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DataChangeNotificationsCount
+            Node ID: NodeId(Identifier=2183, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DisableCount
+            Node ID: NodeId(Identifier=8895, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DisabledMonitoredItemCount
+            Node ID: NodeId(Identifier=8893, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DiscardedMessageCount
+            Node ID: NodeId(Identifier=2182, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnableCount
+            Node ID: NodeId(Identifier=2998, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventNotificationsCount
+            Node ID: NodeId(Identifier=8902, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventQueueOverFlowCount
+            Node ID: NodeId(Identifier=8889, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LatePublishRequestCount
+            Node ID: NodeId(Identifier=2177, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxKeepAliveCount
+            Node ID: NodeId(Identifier=8888, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxLifetimeCount
+            Node ID: NodeId(Identifier=2179, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNotificationsPerPublish
+            Node ID: NodeId(Identifier=2181, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ModifyCount
+            Node ID: NodeId(Identifier=8894, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MonitoredItemCount
+            Node ID: NodeId(Identifier=8896, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MonitoringQueueOverflowCount
+            Node ID: NodeId(Identifier=8897, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NextSequenceNumber
+            Node ID: NodeId(Identifier=2193, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NotificationsCount
+            Node ID: NodeId(Identifier=2175, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Priority
+            Node ID: NodeId(Identifier=2180, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PublishingEnabled
+            Node ID: NodeId(Identifier=2176, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PublishingInterval
+            Node ID: NodeId(Identifier=2190, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: PublishRequestCount
+            Node ID: NodeId(Identifier=2186, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RepublishMessageCount
+            Node ID: NodeId(Identifier=2185, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RepublishMessageRequestCount
+            Node ID: NodeId(Identifier=2184, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RepublishRequestCount
+            Node ID: NodeId(Identifier=2173, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionId
+            Node ID: NodeId(Identifier=2174, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionId
+            Node ID: NodeId(Identifier=2188, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TransferredToAltClientCount
+            Node ID: NodeId(Identifier=2189, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TransferredToSameClientCount
+            Node ID: NodeId(Identifier=2187, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TransferRequestCount
+            Node ID: NodeId(Identifier=8892, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UnacknowledgedMessageCount
+          Node ID: NodeId(Identifier=2196, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionDiagnosticsArrayType
+          Node ID: NodeId(Identifier=2197, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionDiagnosticsVariableType
+          Node ID: NodeId(Identifier=2243, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionSecurityDiagnosticsArrayType
+          Node ID: NodeId(Identifier=2244, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionSecurityDiagnosticsType
+    Node ID: NodeId(Identifier=3048, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventTypes
+      Node ID: NodeId(Identifier=2041, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BaseEventType
+        Node ID: NodeId(Identifier=2042, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventId
+        Node ID: NodeId(Identifier=2043, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventType
+        Node ID: NodeId(Identifier=2044, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SourceNode
+        Node ID: NodeId(Identifier=2045, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SourceName
+        Node ID: NodeId(Identifier=2046, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Time
+        Node ID: NodeId(Identifier=2047, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReceiveTime
+        Node ID: NodeId(Identifier=3190, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LocalTime
+        Node ID: NodeId(Identifier=2050, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Message
+        Node ID: NodeId(Identifier=2051, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Severity
+        Node ID: NodeId(Identifier=2130, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemEventType
+          Node ID: NodeId(Identifier=2131, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeviceFailureEventType
+          Node ID: NodeId(Identifier=11446, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemStatusChangeEventType
+            Node ID: NodeId(Identifier=11696, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemState
+          Node ID: NodeId(Identifier=2789, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshRequiredEventType
+          Node ID: NodeId(Identifier=2787, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshStartEventType
+          Node ID: NodeId(Identifier=2788, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshEndEventType
+        Node ID: NodeId(Identifier=3035, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventQueueOverflowEventType
+        Node ID: NodeId(Identifier=2132, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BaseModelChangeEventType
+          Node ID: NodeId(Identifier=2133, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GeneralModelChangeEventType
+            Node ID: NodeId(Identifier=2134, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Changes
+          Node ID: NodeId(Identifier=2738, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SemanticChangeEventType
+            Node ID: NodeId(Identifier=2739, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Changes
+    Node ID: NodeId(Identifier=88, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ObjectTypes
+      Node ID: NodeId(Identifier=58, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: BaseObjectType
+        Node ID: NodeId(Identifier=2041, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BaseEventType
+          Node ID: NodeId(Identifier=2042, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventId
+          Node ID: NodeId(Identifier=2043, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventType
+          Node ID: NodeId(Identifier=2044, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SourceNode
+          Node ID: NodeId(Identifier=2045, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SourceName
+          Node ID: NodeId(Identifier=2046, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Time
+          Node ID: NodeId(Identifier=2047, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReceiveTime
+          Node ID: NodeId(Identifier=3190, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LocalTime
+          Node ID: NodeId(Identifier=2050, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Message
+          Node ID: NodeId(Identifier=2051, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Severity
+          Node ID: NodeId(Identifier=2130, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemEventType
+            Node ID: NodeId(Identifier=2131, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeviceFailureEventType
+            Node ID: NodeId(Identifier=11446, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemStatusChangeEventType
+              Node ID: NodeId(Identifier=11696, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SystemState
+            Node ID: NodeId(Identifier=2789, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshRequiredEventType
+            Node ID: NodeId(Identifier=2787, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshStartEventType
+            Node ID: NodeId(Identifier=2788, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RefreshEndEventType
+          Node ID: NodeId(Identifier=3035, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EventQueueOverflowEventType
+          Node ID: NodeId(Identifier=2132, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BaseModelChangeEventType
+            Node ID: NodeId(Identifier=2133, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GeneralModelChangeEventType
+              Node ID: NodeId(Identifier=2134, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Changes
+            Node ID: NodeId(Identifier=2738, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SemanticChangeEventType
+              Node ID: NodeId(Identifier=2739, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Changes
+        Node ID: NodeId(Identifier=2026, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionsDiagnosticsSummaryType
+        Node ID: NodeId(Identifier=2033, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VendorServerInfoType
+        Node ID: NodeId(Identifier=2034, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerRedundancyType
+          Node ID: NodeId(Identifier=2035, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RedundancySupport
+        Node ID: NodeId(Identifier=77, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: ModellingRuleType
+          Node ID: NodeId(Identifier=111, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: NamingRule
+        Node ID: NodeId(Identifier=61, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: FolderType
+          Node ID: NodeId(Identifier=11564, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OperationLimitsType
+            Node ID: NodeId(Identifier=11565, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerRead
+            Node ID: NodeId(Identifier=12161, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryReadData
+            Node ID: NodeId(Identifier=12162, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryReadEvents
+            Node ID: NodeId(Identifier=11567, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerWrite
+            Node ID: NodeId(Identifier=12163, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryUpdateData
+            Node ID: NodeId(Identifier=12164, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerHistoryUpdateEvents
+            Node ID: NodeId(Identifier=11569, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerMethodCall
+            Node ID: NodeId(Identifier=11570, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerBrowse
+            Node ID: NodeId(Identifier=11571, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerRegisterNodes
+            Node ID: NodeId(Identifier=11572, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerTranslateBrowsePathsToNodeIds
+            Node ID: NodeId(Identifier=11573, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxNodesPerNodeManagement
+            Node ID: NodeId(Identifier=11574, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxMonitoredItemsPerCall
+          Node ID: NodeId(Identifier=13813, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateGroupFolderType
+            Node ID: NodeId(Identifier=13916, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: <CertificateGroup>
+              Node ID: NodeId(Identifier=13949, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+              Node ID: NodeId(Identifier=13917, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+                Node ID: NodeId(Identifier=13926, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+                  Node ID: NodeId(Identifier=13927, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13933, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+                  Node ID: NodeId(Identifier=13934, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13935, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13923, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+                  Node ID: NodeId(Identifier=13924, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13925, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13921, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+                Node ID: NodeId(Identifier=13928, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+                  Node ID: NodeId(Identifier=13929, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13930, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13936, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+                  Node ID: NodeId(Identifier=13937, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13918, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+                Node ID: NodeId(Identifier=13920, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+                Node ID: NodeId(Identifier=13919, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+                Node ID: NodeId(Identifier=13931, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+                  Node ID: NodeId(Identifier=13932, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13938, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+                Node ID: NodeId(Identifier=13939, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+                  Node ID: NodeId(Identifier=13940, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13941, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13814, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DefaultApplicationGroup
+              Node ID: NodeId(Identifier=13847, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+              Node ID: NodeId(Identifier=13815, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+                Node ID: NodeId(Identifier=13824, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+                  Node ID: NodeId(Identifier=13825, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13831, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+                  Node ID: NodeId(Identifier=13832, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13833, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13821, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+                  Node ID: NodeId(Identifier=13822, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13823, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13819, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+                Node ID: NodeId(Identifier=13826, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+                  Node ID: NodeId(Identifier=13827, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13828, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13834, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+                  Node ID: NodeId(Identifier=13835, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13816, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+                Node ID: NodeId(Identifier=13818, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+                Node ID: NodeId(Identifier=13817, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+                Node ID: NodeId(Identifier=13829, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+                  Node ID: NodeId(Identifier=13830, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13836, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+                Node ID: NodeId(Identifier=13837, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+                  Node ID: NodeId(Identifier=13838, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13839, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13848, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DefaultHttpsGroup
+              Node ID: NodeId(Identifier=13881, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+              Node ID: NodeId(Identifier=13849, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+                Node ID: NodeId(Identifier=13858, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+                  Node ID: NodeId(Identifier=13859, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13865, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+                  Node ID: NodeId(Identifier=13866, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13867, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13855, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+                  Node ID: NodeId(Identifier=13856, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13857, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13853, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+                Node ID: NodeId(Identifier=13860, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+                  Node ID: NodeId(Identifier=13861, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13862, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13868, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+                  Node ID: NodeId(Identifier=13869, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13850, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+                Node ID: NodeId(Identifier=13852, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+                Node ID: NodeId(Identifier=13851, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+                Node ID: NodeId(Identifier=13863, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+                  Node ID: NodeId(Identifier=13864, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13870, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+                Node ID: NodeId(Identifier=13871, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+                  Node ID: NodeId(Identifier=13872, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13873, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13882, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DefaultUserTokenGroup
+              Node ID: NodeId(Identifier=13915, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+              Node ID: NodeId(Identifier=13883, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+                Node ID: NodeId(Identifier=13892, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+                  Node ID: NodeId(Identifier=13893, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13899, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+                  Node ID: NodeId(Identifier=13900, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13901, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13889, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+                  Node ID: NodeId(Identifier=13890, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13891, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13887, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+                Node ID: NodeId(Identifier=13894, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+                  Node ID: NodeId(Identifier=13895, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13896, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13902, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+                  Node ID: NodeId(Identifier=13903, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13884, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+                Node ID: NodeId(Identifier=13886, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+                Node ID: NodeId(Identifier=13885, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+                Node ID: NodeId(Identifier=13897, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+                  Node ID: NodeId(Identifier=13898, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13904, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+                Node ID: NodeId(Identifier=13905, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+                  Node ID: NodeId(Identifier=13906, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13907, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+        Node ID: NodeId(Identifier=76, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeEncodingType
+        Node ID: NodeId(Identifier=75, NamespaceIndex=0, NodeIdType=<NodeIdType.TwoByte: 0>), Name: DataTypeSystemType
+        Node ID: NodeId(Identifier=2307, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StateType
+          Node ID: NodeId(Identifier=2309, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InitialStateType
+          Node ID: NodeId(Identifier=2308, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StateNumber
+        Node ID: NodeId(Identifier=2310, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TransitionType
+          Node ID: NodeId(Identifier=2312, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TransitionNumber
+        Node ID: NodeId(Identifier=2013, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerCapabilitiesType
+          Node ID: NodeId(Identifier=2014, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerProfileArray
+          Node ID: NodeId(Identifier=2016, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LocaleIdArray
+          Node ID: NodeId(Identifier=2017, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MinSupportedSampleRate
+          Node ID: NodeId(Identifier=2732, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxBrowseContinuationPoints
+          Node ID: NodeId(Identifier=2734, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxHistoryContinuationPoints
+          Node ID: NodeId(Identifier=3049, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareCertificates
+          Node ID: NodeId(Identifier=11549, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxArrayLength
+          Node ID: NodeId(Identifier=11550, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxStringLength
+          Node ID: NodeId(Identifier=12910, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxByteStringLength
+          Node ID: NodeId(Identifier=11551, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OperationLimits
+          Node ID: NodeId(Identifier=2019, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ModellingRules
+          Node ID: NodeId(Identifier=2754, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AggregateFunctions
+        Node ID: NodeId(Identifier=12581, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerConfigurationType
+          Node ID: NodeId(Identifier=13950, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateGroups
+            Node ID: NodeId(Identifier=13951, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DefaultApplicationGroup
+              Node ID: NodeId(Identifier=13984, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+              Node ID: NodeId(Identifier=13952, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+                Node ID: NodeId(Identifier=13961, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+                  Node ID: NodeId(Identifier=13962, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13968, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+                  Node ID: NodeId(Identifier=13969, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13970, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13958, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+                  Node ID: NodeId(Identifier=13959, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13960, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13956, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+                Node ID: NodeId(Identifier=13963, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+                  Node ID: NodeId(Identifier=13964, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13965, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+                Node ID: NodeId(Identifier=13971, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+                  Node ID: NodeId(Identifier=13972, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13953, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+                Node ID: NodeId(Identifier=13955, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+                Node ID: NodeId(Identifier=13954, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+                Node ID: NodeId(Identifier=13966, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+                  Node ID: NodeId(Identifier=13967, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                Node ID: NodeId(Identifier=13973, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+                Node ID: NodeId(Identifier=13974, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+                  Node ID: NodeId(Identifier=13975, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+                  Node ID: NodeId(Identifier=13976, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=12734, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ApplyChanges
+          Node ID: NodeId(Identifier=12731, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CreateSigningRequest
+            Node ID: NodeId(Identifier=12732, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=12733, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=12775, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetRejectedList
+            Node ID: NodeId(Identifier=12776, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=12616, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UpdateCertificate
+            Node ID: NodeId(Identifier=12617, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=12618, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=12584, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxTrustListSize
+          Node ID: NodeId(Identifier=12585, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MulticastDnsEnabled
+          Node ID: NodeId(Identifier=12708, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerCapabilities
+          Node ID: NodeId(Identifier=12583, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SupportedPrivateKeyFormats
+        Node ID: NodeId(Identifier=12555, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateGroupType
+          Node ID: NodeId(Identifier=13599, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustList
+            Node ID: NodeId(Identifier=13608, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+              Node ID: NodeId(Identifier=13609, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=13615, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+              Node ID: NodeId(Identifier=13616, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=13617, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13605, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+              Node ID: NodeId(Identifier=13606, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=13607, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13603, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+            Node ID: NodeId(Identifier=13610, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+              Node ID: NodeId(Identifier=13611, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=13612, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=13618, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+              Node ID: NodeId(Identifier=13619, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=13600, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+            Node ID: NodeId(Identifier=13602, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+            Node ID: NodeId(Identifier=13601, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+            Node ID: NodeId(Identifier=13613, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+              Node ID: NodeId(Identifier=13614, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=13620, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+            Node ID: NodeId(Identifier=13621, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+              Node ID: NodeId(Identifier=13622, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=13623, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=13631, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateTypes
+        Node ID: NodeId(Identifier=11575, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: FileType
+          Node ID: NodeId(Identifier=11583, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Close
+            Node ID: NodeId(Identifier=11584, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+          Node ID: NodeId(Identifier=11590, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetPosition
+            Node ID: NodeId(Identifier=11591, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=11592, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=11580, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Open
+            Node ID: NodeId(Identifier=11581, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=11582, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=11585, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Read
+            Node ID: NodeId(Identifier=11586, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=11587, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=11593, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetPosition
+            Node ID: NodeId(Identifier=11594, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+          Node ID: NodeId(Identifier=11588, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Write
+            Node ID: NodeId(Identifier=11589, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+          Node ID: NodeId(Identifier=13341, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MimeType
+          Node ID: NodeId(Identifier=11579, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenCount
+          Node ID: NodeId(Identifier=11576, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Size
+          Node ID: NodeId(Identifier=12687, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UserWritable
+          Node ID: NodeId(Identifier=12686, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Writable
+          Node ID: NodeId(Identifier=12522, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: TrustListType
+            Node ID: NodeId(Identifier=12548, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AddCertificate
+              Node ID: NodeId(Identifier=12549, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=12546, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CloseAndUpdate
+              Node ID: NodeId(Identifier=12705, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=12547, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=12543, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OpenWithMasks
+              Node ID: NodeId(Identifier=12544, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+              Node ID: NodeId(Identifier=12545, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+            Node ID: NodeId(Identifier=12550, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RemoveCertificate
+              Node ID: NodeId(Identifier=12551, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=12542, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: LastUpdateTime
+        Node ID: NodeId(Identifier=12556, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CertificateType
+          Node ID: NodeId(Identifier=12557, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ApplicationCertificateType
+            Node ID: NodeId(Identifier=12559, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RsaMinApplicationCertificateType
+            Node ID: NodeId(Identifier=12560, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: RsaSha256ApplicationCertificateType
+        Node ID: NodeId(Identifier=2020, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnosticsType
+          Node ID: NodeId(Identifier=2025, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: EnabledFlag
+          Node ID: NodeId(Identifier=2021, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnosticsSummary
+          Node ID: NodeId(Identifier=2023, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SubscriptionDiagnosticsArray
+          Node ID: NodeId(Identifier=2022, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SamplingIntervalDiagnosticsArray
+          Node ID: NodeId(Identifier=2744, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionsDiagnosticsSummary
+        Node ID: NodeId(Identifier=2004, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerType
+          Node ID: NodeId(Identifier=2005, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerArray
+          Node ID: NodeId(Identifier=2006, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: NamespaceArray
+          Node ID: NodeId(Identifier=2007, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerStatus
+            Node ID: NodeId(Identifier=3074, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: StartTime
+            Node ID: NodeId(Identifier=3075, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: CurrentTime
+            Node ID: NodeId(Identifier=3076, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: State
+            Node ID: NodeId(Identifier=3084, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SecondsTillShutdown
+            Node ID: NodeId(Identifier=3085, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ShutdownReason
+            Node ID: NodeId(Identifier=3077, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildInfo
+              Node ID: NodeId(Identifier=3078, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductUri
+              Node ID: NodeId(Identifier=3079, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ManufacturerName
+              Node ID: NodeId(Identifier=3080, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ProductName
+              Node ID: NodeId(Identifier=3081, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SoftwareVersion
+              Node ID: NodeId(Identifier=3082, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildNumber
+              Node ID: NodeId(Identifier=3083, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: BuildDate
+          Node ID: NodeId(Identifier=2008, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServiceLevel
+          Node ID: NodeId(Identifier=2742, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: Auditing
+          Node ID: NodeId(Identifier=2009, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerCapabilities
+          Node ID: NodeId(Identifier=2010, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerDiagnostics
+          Node ID: NodeId(Identifier=2011, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: VendorServerInfo
+          Node ID: NodeId(Identifier=2012, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ServerRedundancy
+          Node ID: NodeId(Identifier=11489, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: GetMonitoredItems
+            Node ID: NodeId(Identifier=11490, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=11491, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+          Node ID: NodeId(Identifier=12871, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ResendData
+            Node ID: NodeId(Identifier=12872, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+          Node ID: NodeId(Identifier=12746, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SetSubscriptionDurable
+            Node ID: NodeId(Identifier=12747, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InputArguments
+            Node ID: NodeId(Identifier=12748, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: OutputArguments
+        Node ID: NodeId(Identifier=2029, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: SessionDiagnosticsObjectType
+        Node ID: NodeId(Identifier=2330, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: HistoryServerCapabilitiesType
+          Node ID: NodeId(Identifier=11172, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AggregateFunctions
+          Node ID: NodeId(Identifier=2331, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AccessHistoryDataCapability
+          Node ID: NodeId(Identifier=2332, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AccessHistoryEventsCapability
+          Node ID: NodeId(Identifier=2338, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteAtTimeCapability
+          Node ID: NodeId(Identifier=11501, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteEventCapability
+          Node ID: NodeId(Identifier=2337, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: DeleteRawCapability
+          Node ID: NodeId(Identifier=11270, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertAnnotationCapability
+          Node ID: NodeId(Identifier=2334, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertDataCapability
+          Node ID: NodeId(Identifier=11278, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: InsertEventCapability
+          Node ID: NodeId(Identifier=11268, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxReturnDataValues
+          Node ID: NodeId(Identifier=11269, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: MaxReturnEventValues
+          Node ID: NodeId(Identifier=2335, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReplaceDataCapability
+          Node ID: NodeId(Identifier=11279, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: ReplaceEventCapability
+          Node ID: NodeId(Identifier=2336, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UpdateDataCapability
+          Node ID: NodeId(Identifier=11280, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: UpdateEventCapability
+        Node ID: NodeId(Identifier=2340, NamespaceIndex=0, NodeIdType=<NodeIdType.FourByte: 1>), Name: AggregateFunctionType
