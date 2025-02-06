@@ -1,0 +1,35 @@
+DEBUG [IRLogger.cpp:105] @ 1.75461s :***************************************************
+DEBUG [IRLogger.cpp:106] @ 1.75467s :* IRImagerDirect SDK                              *
+DEBUG [IRLogger.cpp:107] @ 1.7547s :***************************************************
+DEBUG [IRLogger.cpp:113] @ 1.75472s :* Native Machine:      AMD64
+DEBUG [IRLogger.cpp:114] @ 1.75475s :* Machine:             AMD64
+DEBUG [IRLogger.cpp:116] @ 1.75478s :* OS:                  Windows 10 0 19045
+DEBUG [IRLogger.cpp:123] @ 1.7548s :***************************************************
+DEBUG [IRDeviceParams.cpp:204] @ 1.75538s :Parameters
+DEBUG [IRDeviceParams.cpp:205] @ 1.7554s :serial: 20052193
+DEBUG [IRDeviceParams.cpp:206] @ 1.75542s :videoformatindex: 1
+DEBUG [IRDeviceParams.cpp:207] @ 1.75543s :fov: 33
+DEBUG [IRDeviceParams.cpp:208] @ 1.75544s :optics_text: 0000018C8EF05040
+DEBUG [IRDeviceParams.cpp:209] @ 1.75546s :formatspath: 0000018C8EF04FA0
+DEBUG [IRDeviceParams.cpp:210] @ 1.75547s :calipath: 0000000000000000
+DEBUG [IRDeviceParams.cpp:211] @ 1.75548s :temperature min: 0
+DEBUG [IRDeviceParams.cpp:212] @ 1.7555s :temperature max: 250
+DEBUG [IRDeviceParams.cpp:213] @ 1.75551s :framerate: 125
+DEBUG [IRDeviceParams.cpp:214] @ 1.75552s :bispectral: 0
+DEBUG [IRDeviceParams.cpp:215] @ 1.75554s :flag automatic: 0
+DEBUG [IRDeviceParams.cpp:216] @ 1.75555s :min interval: 15
+DEBUG [IRDeviceParams.cpp:217] @ 1.75556s :max interval: 0
+DEBUG [IRDeviceParams.cpp:218] @ 1.75563s :chip heating mode: 0
+DEBUG [IRDeviceParams.cpp:219] @ 1.75565s :chip heating fixed val: 40
+DEBUG [IRDeviceParams.cpp:220] @ 1.75567s :focus:  -1
+DEBUG [IRDeviceParams.cpp:221] @ 1.75568s :enable extended temp range: 0
+DEBUG [IRDeviceParams.cpp:222] @ 1.75569s :buffer queue size: 5
+DEBUG [IRDeviceParams.cpp:223] @ 1.75571s :enable high precision: 0
+DEBUG [IRDeviceParams.cpp:224] @ 1.75572s :radialDistortionCorrectionMode: 0
+DEBUG [IRDeviceParams.cpp:225] @ 1.75573s :deviceAPI: 0
+DEBUG [IRDeviceParams.cpp:226] @ 1.75574s :useExternalProbeForReferencing: 0
+DEBUG [IRDeviceParams.cpp:227] @ 1.75576s :enableMultiThreading: 0
+DEBUG [IRDeviceParams.cpp:232] @ 1.75577s :ethernetDevice.deviceIpAddress: 0.0.0.0
+DEBUG [IRDeviceParams.cpp:233] @ 1.75578s :ethernetDevice.localUdpPort: 0
+DEBUG [IRDeviceParams.cpp:234] @ 1.7558s :ethernetDevice.checkUdpSenderIp: 1
+ERROR [IRDeviceDS.cpp:708] @ 1.80239s :Failed to render stream hr=-2147467259
