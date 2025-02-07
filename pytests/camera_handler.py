@@ -1,4 +1,4 @@
-from camera import Camera
+from pytests.camera import Camera
 import os
 import time
 import numpy as np
