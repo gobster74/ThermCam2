@@ -1,38 +1,37 @@
 import asyncio
 import openUa
-import threading
+import multiprocessing
 import obj
+
 log_dir = "camera_logs"
 
-def run_open_ua(camera):
-    # Create a new event loop
+def run_open_ua(command_queue):
     loop = asyncio.new_event_loop()
-    # Set the event loop for the current context
     asyncio.set_event_loop(loop)
     try:
-        # Run OpenUa in this thread and call the camera's method
-        loop.run_until_complete(openUa.run_open_ua(camera))
+        camera_handler = obj.CameraHandler(log_dir) 
+        loop.run_until_complete(openUa.run_open_ua(camera_handler, command_queue))
     finally:
-        # Close the event loop
         loop.close()
-def run_camera(camera):
-    while True: camera.aquire_frames()
+
 async def main():
-    camera = obj.Camera("PI 1M", log_dir)
-    # Create threads for OpenUa and Camera
-    thread1 = threading.Thread(target=run_open_ua, args=(camera,))
-    thread2 = threading.Thread(target=run_camera, args=(camera,))
+    command_queue = multiprocessing.Queue()
+    process_open_ua = multiprocessing.Process(target=run_open_ua, args=(command_queue,))
 
-    # Start the threads
-    thread1.start()
-    thread2.start()
+    camera_handler = obj.CameraHandler(log_dir)
+    camera_handler.start_cameras()
 
-    # Wait for both threads to finish
-    thread1.join()    
-    thread2.join()
+    process_open_ua.start()
 
+    try:
+        while True: 
+            await asyncio.sleep(2)
+    except KeyboardInterrupt:
+        print("Stopping processes...")
+
+    camera_handler.stop_cameras()
+    process_open_ua.terminate()
+    process_open_ua.join()
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-    
