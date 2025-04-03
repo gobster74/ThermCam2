@@ -1,10 +1,6 @@
 #################
 # Contains the spec
 
-
-
-
-
 #ip = "opc.tcp://169.254.243.7:5000"
 ip = "opc.tcp://10.35.128.20:50000"
 current_layer = 'ns=2;s=Scan System."Scan System.Current Layer"'

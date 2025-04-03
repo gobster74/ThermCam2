@@ -29,3 +29,4 @@ class CameraHandler:
         print(f"Sending data block {block_id} to both cameras...")
         self.camera1.set_data_block(block_id)
         self.camera2.set_data_block(block_id)
+

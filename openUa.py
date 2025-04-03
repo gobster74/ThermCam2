@@ -78,20 +78,19 @@ class SubscriptionHandler:
 
     def status_change(self, val):
         print(val)
-        if val == 1:
-            # opening Job File
-            print("Opening Job File")
-        elif val == 7 and self.previous_status != 7:
-            # scan Complete
+        if val == 7 and self.previous_status != 7:
             print("Scan Complete")
-            self.camera_handler.stop_cameras()  # stop both cameras
+            if self.camera_handler.is_running:
+                self.camera_handler.stop_cameras()  
         self.previous_status = val
-        
+
+
     def command_change(self, val):
         print(val)
         if val == 3:
-            self.camera_handler.start_cameras()  # start both cameras
+            self.camera_handler.start_cameras()
             print("Recording started")
 
     def data_info(self, val):
         pass
+
