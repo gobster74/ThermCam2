@@ -55,7 +55,8 @@ class Camera:
         print(f"[DEBUG]  acquiree_frames() called, is_recording: {self.is_recording}")
         if not self.is_recording:
             print("[ERROR]  acquire_frames() called without start command!")
-            return  
+            return 
+
         self.frames_counter = 0
         start_time = time.time()
         try:
