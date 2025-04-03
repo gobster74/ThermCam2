@@ -9,6 +9,8 @@ camera_id = {
     'PI 640i': '6060300.xml',
 }
 
+log_dir = '.'
+
 class Camera:
     def __init__(self, type: str, log_dir: str = '.'):
         self.type = type
@@ -96,3 +98,5 @@ class Camera:
 
     def change_roi(self, x=None, y=None):
         self.position = optris.set_multi_clipped_format_position(self.camera_id, x, y)
+
+

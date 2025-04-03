@@ -19,7 +19,7 @@ async def main():
     process_open_ua = multiprocessing.Process(target=run_open_ua, args=(command_queue,))
 
     camera_handler = obj.CameraHandler(log_dir)
-    camera_handler.start_cameras()
+    #camera_handler.start_cameras()
 
     process_open_ua.start()
 
