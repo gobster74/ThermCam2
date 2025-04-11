@@ -1,6 +1,7 @@
 🔥 Dual-Camera Thermal Imaging System
 
 This project is a Python-based thermal imaging control system designed for simultaneous management and recording of two infrared cameras: the PI 1M and PI 640i. Built with PyQt5, the application offers an intuitive dashboard-style GUI for live camera control, ROI (Region of Interest) selection, FPS monitoring, and job file management.
+
 🚀 Features
 
     🎥 Dual-Camera Streaming: Concurrent control and monitoring of PI 1M and PI 640i thermal cameras.
